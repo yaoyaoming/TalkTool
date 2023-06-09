@@ -6,8 +6,10 @@ android {
     compileSdk 32
 
     defaultConfig {
+        minSdkVersion 28
+        versionCode 1
+        versionName "1.0"
         applicationId "com.citichickc.TalkTool"
-        minSdk 28
         buildToolsVersion "29.0.3"
         targetSdk 32
 
